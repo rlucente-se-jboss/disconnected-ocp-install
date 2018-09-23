@@ -50,7 +50,7 @@ acting as the repository cache:
 
     ./config-repos.sh
 
-# Pre-load Docker Images
+## Pre-load Docker Images
 After installing docker on each OCP node, configuring docker storage,
 and starting the docker daemon, run the following command to
 pre-populate the docker images before running the OCP ansible

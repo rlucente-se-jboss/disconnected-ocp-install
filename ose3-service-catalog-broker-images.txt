@@ -1,0 +1,8 @@
+registry.access.redhat.com/openshift3/apb-base:v3.10.34
+registry.access.redhat.com/openshift3/apb-tools:v3.10.34
+registry.access.redhat.com/openshift3/ose-service-catalog:v3.10.34
+registry.access.redhat.com/openshift3/ose-ansible-service-broker:v3.10.34
+registry.access.redhat.com/openshift3/mariadb-apb:v3.10.34
+registry.access.redhat.com/openshift3/mediawiki-apb:v3.10.34
+registry.access.redhat.com/openshift3/mysql-apb:v3.10.34
+registry.access.redhat.com/openshift3/ose-template-service-broker:v3.10.34
